@@ -15,7 +15,7 @@
 ## 2. <a name="pesquisa-binaria">Pesquisa Binária:<a/>
 
 #### Como funciona?
-- Com a pesquisa binária você chuta um número intermediário e elimina a metade dos números restantes a cada busca.
+- Com a pesquisa binária você busca um número intermediário e elimina a metade dos números restantes a cada busca.
 
 #### Exemplos de uso:
 - Os nomes em uma agenda telefônica estão em ordem alfabética, então você pode utilizar **"Pesquisa Binária"** para procurar um nome.
