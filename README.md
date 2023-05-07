@@ -18,8 +18,8 @@
 - Com a pesquisa binária você busca um número intermediário e elimina a metade dos números restantes a cada busca.
 
 #### Exemplos de uso:
-- Os nomes em uma agenda telefônica estão em ordem alfabética, então você pode utilizar **"Pesquisa Binária"** para procurar um nome.
 - Suponha que você esteja procurando uma palavra em um dicionário. O dicionário tem 240.000 palavras. Na pior das hipóteses, de quantas etapas a pesquisa precisaria? A pesquisa simples poderia levar 240.000 etapas se a palavra buscada fosse a última do dicionário. Já na **Pesquisa Binária**, você elimina o número de possibilidades pela metade até que só reste uma palavra.
+- Os nomes em uma agenda telefônica estão em ordem alfabética, então você pode utilizar **"Pesquisa Binária"** para procurar um nome.
 
 TODO: Imagem
 
