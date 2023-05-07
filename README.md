@@ -1,5 +1,9 @@
 # Understanding Algorithms and Data Structure
 
+- [Pesquisa Simples](#conventions)
+- [Pesquisa Binária](#standard-structure)
+
+
 ## 1. Pesquisa Simples:
 #### Como funciona?
 - TODO:
