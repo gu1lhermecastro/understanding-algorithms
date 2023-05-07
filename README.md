@@ -1,4 +1,4 @@
-# Understanding Algorithms
+# Understanding Algorithms and Data Structure
 
 ### 1. Pesquisa Binária
 Descrição: De mangeira geral, para uma lista de *n* números, a pesquisa binária precisa de *log (n)* para retornar o valor correto, enquanto a pesquisa simples precisa de *n* etapas.
