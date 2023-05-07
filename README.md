@@ -1,10 +1,9 @@
 # Understanding Algorithms and Data Structure
 
-- [Pesquisa Simples](#conventions)
-- [Pesquisa Binária](#standard-structure)
+- [Pesquisa Simples](#pesquisa-simples)
+- [Pesquisa Binária](#pesquisa-binaria)
 
-
-## 1. Pesquisa Simples:
+## 1. <a name="pesquisa-simples">Pesquisa Simples:<a/>
 #### Como funciona?
 - TODO:
 #### Exemplos de uso:
@@ -13,7 +12,7 @@
 - TODO:
 
 
-## 2. Pesquisa Binária:
+## 2. <a name="pesquisa-binaria">Pesquisa Binária:<a/>
 
 #### Como funciona?
 - Com a pesquisa binária você chuta um número intermediário e elimina a metade dos números restantes a cada busca.
